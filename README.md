@@ -43,7 +43,7 @@
 
 ```sh
 python ndvi_mask.py india_ndvi_stack_2021.tif
-# → Получите india_ndvi_stack_2021_Mask.tif
+# → на выход india_ndvi_stack_2021_Mask.tif
 ```
 
 ---
